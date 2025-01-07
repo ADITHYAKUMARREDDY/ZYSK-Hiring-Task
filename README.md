@@ -1,6 +1,6 @@
 # ZYSK Hiring Task
 
-[Visit the Deployed Application](https://zysk-hiring-task-adithya.netlify.app/)
+[**https://zysk-hiring-task-adithya.netlify.app/**](https://zysk-hiring-task-adithya.netlify.app/)
 
 ---
 
